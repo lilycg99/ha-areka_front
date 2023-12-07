@@ -1,5 +1,5 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
   transpileDependencies: true,
-  publicPath: '/HA-AREKA_FRONT/'
+  publicPath: '/ha-areka_front/'
 })
